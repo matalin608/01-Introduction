@@ -1,5 +1,8 @@
 # 01-Introduction
 
+Hello github user! You're likely either my professor, a curious friend, or incredibly lost. This is my first graded assignment for Game Technology class at Indiana University. 
+
+
 Hello, class! This is the first assignment for MSCH-C220. The requirements for this assignment are as follows:
 
 Write a Python program that displays answers to the following questions:
