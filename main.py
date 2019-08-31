@@ -4,7 +4,6 @@ import utils
 
 utils.check_version((3,7))
 utils.clear()
-#Insert question and answer portion for funsies. DELETE THIS COMMENT LATER, DUMMY HEAD
 print('Hello, my name is Matalin Racster!')
 print('My favorite game is Minecraft, of course.')
 print('I have very little experience with code, especially writing code, so I am concerned that I will be confused when working with new coding language in this class.')
